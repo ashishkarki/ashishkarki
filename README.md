@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://portfolio-ashishkarki.netlify.app/"><img src="https://github.com/ashishkarki/ashishkarki/blob/main/devcard.svg" width="400" alt="Ashish Karki's Dev Card"/></a>
+<a href="https://portfolio-ashishkarki.netlify.app/" target="_blank"><img src="https://github.com/ashishkarki/ashishkarki/blob/main/devcard.svg" width="400" alt="Ashish Karki's Dev Card"/></a>
 
